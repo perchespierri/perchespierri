@@ -8,8 +8,8 @@
 - ❓ Ask me about: Anything related to the web dev world. If I can't answer, we'll find out together!
 - 😍 Things I like: Studying, being challenged, build and help building stuff
 - ⚡ Fun facts:
-  - One of my favorite books is 'How to be a Stoic', by Massimo Pigliucci
-  - My favorite band is the Foo Fighters 🪨
+  - One of my favorite books is 'How to be a Stoic', by Massimo Pigliucci 📚
+  - My favorite band is the Foo Fighters 🎸
 ##
 ### My stats so far:
 <div>
