@@ -1,6 +1,6 @@
 ## Hello there, I'm Rafael! 👋 
 
-### I'm changing gears in life and learning how to code 💻 🚀
+### I'm changing gears in life. I was a mechanical engineer, now I have fun coding 💻 🚀
 ##
 - 🔭 I’m currently working on actually becoming a web developer!
 - 🌱 I’m currently learning the basics of front-end and back-end development
