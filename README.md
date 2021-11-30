@@ -11,6 +11,7 @@
   - One of my favorite books is 'How to be a Stoic', by Massimo Pigliucci 📚
   - My favorite band is the Foo Fighters 🎸
 ##
+
 ### My stats so far:
 <div>
   <a href="https://github.com/perchespierri">
@@ -18,7 +19,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perchespierri&layout=compact&langs_count=16&theme=dracula" />
 </div>
 ##
-### My Toolbox:
+  
+### My toolbox: 
 <div style="display: inline_block"><br>
   <img allign="center" alt="html-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img allign="center" alt="css-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
