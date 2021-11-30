@@ -1,6 +1,5 @@
 ## Hello there, I'm Rafael! 👋 
-
-### I'm changing gears in life. I was a mechanical engineer, now I have fun coding 💻 🚀
+Changing gears in life: I was a mechanical engineer, now I have fun coding 💻 🚀
 
 ##
 
