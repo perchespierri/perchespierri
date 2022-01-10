@@ -21,7 +21,7 @@ Changing gears in life: I was a mechanical engineer, now I have fun coding 💻 
 - ❓ Ask me about: Anything related to the web dev world. If I can't answer, we'll find out together!
 - 😍 Things I like: Studying, being challenged, build and help building stuff
 - ⚡ Fun facts:
-  - My favorite books are 'How to be a Stoic', by Massimo Pigliucci, and "The Godfather", by Mario Puzzo 📚
+  - My favorite books are 'How to be a Stoic', by Massimo Pigliucci, and "The Godfather", by Mario Puzo 📚
   - My favorite bands are the Foo Fighters and Led Zeppelin 🎸
   - I can play the guitar, bass, Ukulele and the harmonica
   
