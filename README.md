@@ -38,6 +38,8 @@ Changing gears in life: I was a mechanical engineer, now I have fun coding 💻 
   <img allign="center" alt="docker-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img allign="center" alt="docker-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img allign="center" alt="docker-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  <img allign="center" alt="docker-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original.svg">
+  <img allign="center" alt="docker-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby-on-rails/ruby-on-rails-original.svg">
 </div>
 
 ##  
