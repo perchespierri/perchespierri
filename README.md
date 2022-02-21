@@ -23,7 +23,7 @@ Changing gears in life: I was a mechanical engineer, now I have fun coding 💻 
 - ⚡ Fun facts:
   - My favorite book is "The Godfather", by Mario Puzo 📚
   - My favorite bands are the Foo Fighters and Led Zeppelin 🎸
-  - I can play the guitar, bass, Ukulele and the harmonica
+  - I can play the guitar, bass, Ukulele and the harmonica 🎵
   
 ##
 
