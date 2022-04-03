@@ -3,16 +3,6 @@ Changing gears in life: I was a mechanical engineer, now I have fun coding 💻 
 
 ##
 
-### My stats so far:
-
-<div style="display: inline_block"><br>
-  <a href="https://github.com/perchespierri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=perchespierri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perchespierri&layout=compact&langs_count=16&theme=dracula" />
-</div>
-
-##
-
 ### A little bit about me:
   
 - 🔭 I’m currently working on actually becoming a web developer!
@@ -40,7 +30,17 @@ Changing gears in life: I was a mechanical engineer, now I have fun coding 💻 
   <img allign="center" alt="docker-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
 </div>
 
-##  
+##
+
+### My stats so far:
+
+<div style="display: inline_block"><br>
+  <a href="https://github.com/perchespierri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=perchespierri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perchespierri&layout=compact&langs_count=16&theme=dracula" />
+</div>
+
+##
 
 ### How to reach me:
 
